@@ -43,8 +43,10 @@ At Siraat, we believe in **guiding intelligence with intention**. Every project 
 
 The story began with Jamalu — a quiet learner with no mic, no spotlight, and no clear path. He once said:
 
-> "Main khud kuch nahi... par AI ne khud se seekhna sikha diya hai."
-> “I am nothing on my own... but AI taught me how to learn from myself.”
+> **"Main khud kuch nahi..."**  
+> **"...par AI ne khud se seekhna sikha diya hai."**  
+> *“I am nothing on my own... but AI taught me how to learn from myself.”*  
+
 
 That line became the heartbeat of this entire movement.
 
