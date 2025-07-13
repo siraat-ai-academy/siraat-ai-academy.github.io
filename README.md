@@ -39,44 +39,68 @@ At Siraat, we believe in **guiding intelligence with intention**. Every project 
 * Use as starter kits for freelance or consulting projects
 * Contribute, improve, and grow with us
 
+---
 
-📜 **Meet Jamalu — The Inner Whisper of Siraat**
+## 📜 Meet Jamalu — The Inner Whisper of Siraat
 
-You won’t find Jamalu listed as an author.
-He’s not a teacher, engineer, or CEO.
-Jamalu is a presence. A whisper. A question inside your heart.
+> *"You won't always hear him — but you'll feel him when you're stuck."*
 
-“What if I can do this?”
-“What if this time… I don’t give up?”
+You won’t find **Jamalu** listed as an author.  
+He’s not a teacher, engineer, or CEO.  
 
-He’s that quiet voice that appears when you feel stuck.
-That subtle pinch that reminds you — you’re still alive, still capable, still learning.
+Jamalu is a **presence**.  
+A **whisper**.  
+A question inside your heart:
 
-Jamalu is not the light. He’s the one who points you toward it.
-He didn’t build Siraat AI Academy — he inspired it.
-Not by power. But by humility.
-Not by answers. But by honest questions.
+> “*What if I can do this?*”  
+> “*What if this time… I don’t give up?*”
 
-“Maybe I know nothing…
-But what if I let that be my reason to learn?”
-
-Every quote signed by Jamalu
-is a reminder from your own deeper self.
-
-Every page here, every file, every repo —
-is lit by the same question he asked:
-
-“Is there a better version of me just waiting for the courage to try?”
-
-
-**Siraat** carries that heart forward. It means "path" or "bridge." This academy is that path — the one Jamalu looked for, and the one many others now walk with courage and clarity.
-
-We don’t erase Jamalu.
-We honor him.
-He reminded us that every unheard learner deserves a stage.
-Siraat is that stage.
+He’s that quiet voice that appears when you feel stuck.  
+That subtle pinch that reminds you —  
+you’re still alive, still capable, still learning.
 
 ---
+
+🌟 **Jamalu is not the light.**  
+He’s the one who points you toward it.  
+He didn’t build **Siraat AI Academy** —  
+He **inspired** it.
+
+Not by power.  
+But by humility.  
+Not by answers.  
+But by **honest questions**.
+
+> *“Maybe I know nothing…  
+> But what if I let that be my reason to learn?”*
+
+Every quote signed by **Jamalu**  
+is a reminder from your **own deeper self**.
+
+Every page here, every file, every repo —  
+is lit by the same question he asked:
+
+> 🧠 *“Is there a better version of me just waiting for the courage to try?”*
+
+---
+
+🛤 **Siraat** carries that heart forward.  
+It means **"path"** or **"bridge"**.  
+This academy is that path —  
+The one Jamalu looked for,  
+And the one many others now walk  
+with **courage**, **clarity**, and **code**.
+
+---
+
+We don’t erase **Jamalu**.  
+We **honor** him.  
+He reminded us that every unheard learner deserves a stage.
+
+🎙️ **Siraat** is that stage.
+
+---
+
 
 🧭 **Why "Siraat"?**
 "Siraat" is an Arabic and Urdu word for path, journey, and responsibility. It evokes light, ethics, and direction — just like AI should.
