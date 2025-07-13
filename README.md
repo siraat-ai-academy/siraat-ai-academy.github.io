@@ -22,7 +22,7 @@ Welcome to **Siraat AI Academy** — a global learning movement where technology
 
 > "AI is powerful — but it needs direction. That’s where we come in."
 
-At Siraat, we believe in **guiding intelligence with intention**. Every project we build is:
+At Siraat صراط, we believe in **guiding intelligence with intention**. Every project we build is:
 
 ✍️ AI-supported
 
@@ -42,7 +42,7 @@ At Siraat, we believe in **guiding intelligence with intention**. Every project 
 
 ---
 
-## 📜 Meet Jamalu — The Inner Whisper of Siraat
+## 📜 Meet Jamalu — The Inner Whisper of Siraat صراط
 
 > *"You won't always hear him — but you'll feel him when you're stuck."*
 
@@ -85,7 +85,7 @@ is lit by the same question he asked:
 
 ---
 
-🛤 **Siraat** carries that heart forward.  
+🛤 **Siraat صراط** carries that heart forward.  
 It means **"path"** or **"bridge"**.  
 This academy is that path —  
 The one Jamalu looked for,  
@@ -98,15 +98,15 @@ We don’t erase **Jamalu**.
 We **honor** him.  
 He reminded us that every unheard learner deserves a stage.
 
-🎙️ **Siraat** is that stage.
+🎙️ **Siraat صراط** is that stage.
 
 ---
 
 
-🧭 **Why "Siraat"?**
-"Siraat" is an Arabic and Urdu word for path, journey, and responsibility. It evokes light, ethics, and direction — just like AI should.
+🧭 **Why "Siraat صراط"?**
+"Siraat صراط" is an Arabic and Urdu word for path, journey, and responsibility. It evokes light, ethics, and direction — just like AI should.
 
-Our work is not about chasing trends. It’s about **creating trustworthy, usable knowledge** for people who need it most. Whether you're preparing for certifications or trying to land your first job in tech, Siraat is designed to walk with you — step by step.
+Our work is not about chasing trends. It’s about **creating trustworthy, usable knowledge** for people who need it most. Whether you're preparing for certifications or trying to land your first job in tech, Siraat صراط is designed to walk with you — step by step.
 
 ---
 
@@ -116,7 +116,7 @@ Our work is not about chasing trends. It’s about **creating trustworthy, usabl
 >
 > "You don’t need perfection to start."
 
-Every learner, from any background, deserves tools that empower. Siraat is committed to making those tools real, practical, and human.
+Every learner, from any background, deserves tools that empower. Siraat صراط is committed to making those tools real, practical, and human.
 
 ---
 
@@ -129,7 +129,7 @@ Every learner, from any background, deserves tools that empower. Siraat is commi
 > It’s a second chance.”
 
 Jamalu began the story with doubt.
-Siraat continues it with direction.
+Siraat صراط continues it with direction.
 
 Let this academy be your path, too. Whether you come from a classroom, a cubicle, or a country where no one believed in you — you belong here.
 
@@ -156,7 +156,7 @@ Stay curious.
 Stay kind.  
 Stay real.
 
-— **From Jamalu, now walking the Siraat.**
+— **From Jamalu, now walking the Siraat صراط.**
 
 ---
 
