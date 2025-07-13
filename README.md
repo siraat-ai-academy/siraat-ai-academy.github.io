@@ -155,6 +155,12 @@ Stay curious. Stay kind. Stay real.
 
 ---
 
+> “Quote goes here...”  
+> **— Jamalu**  
+> *Siraat AI Academy*
+
+---
+
 🔗 **Connect**
 🌐 Coming soon: [siraatai.com](https://siraatai.com)
 📬 [contact@siraatai.com](mailto:contact@siraatai.com) (placeholder email)
