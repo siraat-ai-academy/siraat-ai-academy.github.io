@@ -93,7 +93,8 @@ Your voice matters. Your time is now.
 
 ---
 
-⚠️ **Disclaimer**
+### ⚠️ Disclaimer
+
 All content provided in this academy is generated, refined, or inspired through the power of AI and human creativity. Much of it originated from Jamalu — a learner who built stages for others while learning to stand on his own.
 
 Each repo, lab, and learning guide is designed to simplify complex topics and offer freelancers, students, and professionals a purposeful way forward.
