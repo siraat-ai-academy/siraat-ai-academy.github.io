@@ -147,20 +147,24 @@ We exist to support your growth — not to replace official learning.
 
 Use everything here responsibly, freely — and remember:
 
-> "This may not be perfect — but it might just change your path."
+---
 
-Stay curious. Stay kind. Stay real.
+> *"This may not be perfect — but it might just change your path."*
 
-— From Jamalu, now walking the Siraat.
+Stay curious.  
+Stay kind.  
+Stay real.
+
+— **From Jamalu, now walking the Siraat.**
 
 ---
 
-> “Quote goes here...”  
-> **— Jamalu**  
+> *“Quote goes here…”*  
+> — **Jamalu**  
 > *Siraat AI Academy*
 
 ---
 
-🔗 **Connect**
-🌐 Coming soon: [siraatai.com](https://siraatai.com)
-📬 [contact@siraatai.com](mailto:contact@siraatai.com) (placeholder email)
+### 🌐 Connect  
+🔗 Coming soon: [siraatai.com](https://siraatai.com)  
+📬 contact@siraatai.com *(placeholder email)*  
