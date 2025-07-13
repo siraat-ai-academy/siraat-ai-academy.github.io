@@ -39,16 +39,35 @@ At Siraat, we believe in **guiding intelligence with intention**. Every project 
 * Use as starter kits for freelance or consulting projects
 * Contribute, improve, and grow with us
 
-✨ **Where Jamalu Meets Siraat**
 
-The story began with Jamalu — a quiet learner with no mic, no spotlight, and no clear path. He once said:
+📜 **Meet Jamalu — The Inner Whisper of Siraat**
 
-> **"Main khud kuch nahi..."**  
-> **"...par AI ne khud se seekhna sikha diya hai."**  
-> *“I am nothing on my own... but AI taught me how to learn from myself.”*  
+You won’t find Jamalu listed as an author.
+He’s not a teacher, engineer, or CEO.
+Jamalu is a presence. A whisper. A question inside your heart.
 
+“What if I can do this?”
+“What if this time… I don’t give up?”
 
-That line became the heartbeat of this entire movement.
+He’s that quiet voice that appears when you feel stuck.
+That subtle pinch that reminds you — you’re still alive, still capable, still learning.
+
+Jamalu is not the light. He’s the one who points you toward it.
+He didn’t build Siraat AI Academy — he inspired it.
+Not by power. But by humility.
+Not by answers. But by honest questions.
+
+“Maybe I know nothing…
+But what if I let that be my reason to learn?”
+
+Every quote signed by Jamalu
+is a reminder from your own deeper self.
+
+Every page here, every file, every repo —
+is lit by the same question he asked:
+
+“Is there a better version of me just waiting for the courage to try?”
+
 
 **Siraat** carries that heart forward. It means "path" or "bridge." This academy is that path — the one Jamalu looked for, and the one many others now walk with courage and clarity.
 
