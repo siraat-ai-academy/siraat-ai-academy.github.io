@@ -8,14 +8,13 @@ Welcome to **Siraat AI Academy** — a global learning movement where technology
 
 📚 **What We Build**
 
-| Topic                       | Repo               |
-| --------------------------- | ------------------ |
-| Azure Security (AZ-500)     | az-500-labs        |
-| Azure Admin (AZ-104)        | az-104-labs        |
-| DevOps (AZ-400)             | az-400-devops      |
-| Writing & Communication     | write-with-impact  |
-| DELE A2 Spanish Citizenship | dele-a2-kit        |
-| Madrid Taxi Test (Spain)    | madrid-taxi-theory |
+|                **Topic**                         |
+| ---------------------------                      |
+| Azure Certifications                             |
+| AWS Certificatons                                | 
+| Google Cloud Certificatons                       | 
+| Writing & Communication                          | 
+| A wide range of practical skill-building courses |
 
 🚀 **Our Mission**
 
