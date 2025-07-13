@@ -1,7 +1,7 @@
 ## siraat-ai-academy.github.io
 Official website and content hub for Siraat AI Academy — where purpose meets intelligence.
 
-#🎓 Siraat AI Academy
+# 🎓 Siraat AI Academy
 **Guiding Intelligence with Intention**
 
 Welcome to **Siraat AI Academy** — a global learning movement where technology meets purpose. We create meaningful, multilingual, and mission-driven educational content with the help of AI, inspired by learners, for learners.
