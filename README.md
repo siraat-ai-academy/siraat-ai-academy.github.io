@@ -40,6 +40,7 @@ At Siraat, we believe in **guiding intelligence with intention**. Every project 
 * Contribute, improve, and grow with us
 
 ✨ **Where Jamalu Meets Siraat**
+
 The story began with Jamalu — a quiet learner with no mic, no spotlight, and no clear path. He once said:
 
 > "Main khud kuch nahi... par AI ne khud se seekhna sikha diya hai."
