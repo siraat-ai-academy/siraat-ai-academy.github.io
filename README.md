@@ -24,9 +24,13 @@ Welcome to **Siraat AI Academy** — a global learning movement where technology
 At Siraat, we believe in **guiding intelligence with intention**. Every project we build is:
 
 ✍️ AI-supported
+
 🌍 Globally accessible
+
 🎯 Real-world focused
+
 💡 Rooted in learning by doing
+
 
 💬 **How You Can Use This**
 
