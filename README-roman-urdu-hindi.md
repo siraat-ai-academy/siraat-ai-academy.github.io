@@ -123,8 +123,8 @@ matlab raasta, safar, zimmedaari.
 AI bhi yahi hona chahiye:  
 Roshni, ethics, aur niyyat ke saath.
 
-Hamari approach trend follow nahi karti.  
-Hum trustworthy aur asaan ilm banate hain.
+Hamari approach — trend follow nahi karti.  
+Hum ilm ko — trustworthy aur asaan banate hain.
 
 Agar aap certification ki tayari kar rahe hain,  
 ya apni pehli tech job dhundh rahe hain —  
