@@ -76,7 +76,10 @@ aapke apne dil ki awaz hai.
 
 ## 🛤 **Siraat — Ek Rasta, Ek Pul**
 
-Siraat ka matlab hai "raasta" ya "pul".  
+**Siraat** ka matlab hai:  
+_“Raasta” — ya aik “Pul” —  
+jo **ilm** aur **seekhne ke jazbe** ko jortā hai.
+  
 Yeh woh raasta hai jo Jamalu dhoondh raha tha —  
 aur ab kai logon ke liye roshni ban gaya hai.
 
