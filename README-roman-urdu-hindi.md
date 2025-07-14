@@ -48,7 +48,7 @@ Har project:
 
 ## 📜 **Mulaqat karein Jamalu se — Siraat ki andar ki awaaz**
 
-"Har waqt sunai nahi deta, lekin jub aap ruk jaate ho — woh bolta hai."
+"Jo har waqt sunai nahi deta, lekin jub aap kahin stuck ho jaate ho — tou phir woh bolta hai."
 
 Jamalu na author hai, na engineer, na CEO.  
 Woh aik soch hai. Aik whisper. Aik sawal:
