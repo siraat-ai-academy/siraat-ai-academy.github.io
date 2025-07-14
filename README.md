@@ -2,7 +2,6 @@
 Official website and content hub for Siraat AI Academy — where purpose meets intelligence.
 
 # 🎓 Siraat AI Academy  
-# 📘 صراط اے آئی اکیڈمی  
 
 **Guiding Intelligence with Intention**
 
@@ -85,7 +84,7 @@ is lit by the same question he asked:
 
 ---
 
-🛤 **Siraat صراط** carries that heart forward.  
+🛤 **Siraat** carries that heart forward.  
 It means **"path"** or **"bridge"**.  
 This academy is that path —  
 The one Jamalu looked for,  
@@ -103,8 +102,8 @@ He reminded us that every unheard learner deserves a stage.
 ---
 
 
-🧭 **Why "Siraat صراط"?**
-"Siraat صراط" is an Arabic and Urdu word for path, journey, and responsibility. It evokes light, ethics, and direction — just like AI should.
+🧭 **Why "Siraat"?**
+"Siraat" is an Arabic and Urdu word for path, journey, and responsibility. It evokes light, ethics, and direction — just like AI should.
 
 Our work is not about chasing trends. It’s about **creating trustworthy, usable knowledge** for people who need it most. Whether you're preparing for certifications or trying to land your first job in tech, Siraat صراط is designed to walk with you — step by step.
 
@@ -116,7 +115,7 @@ Our work is not about chasing trends. It’s about **creating trustworthy, usabl
 >
 > "You don’t need perfection to start."
 
-Every learner, from any background, deserves tools that empower. Siraat صراط is committed to making those tools real, practical, and human.
+Every learner, from any background, deserves tools that empower. Siraat is committed to making those tools real, practical, and human.
 
 ---
 
@@ -160,11 +159,12 @@ Stay real.
 
 ---
 
-> **"Take a step — that’s how you find the light."**  
-> — Jamalu  
-> Siraat AI Academy
+> _“This might just be the step your future self was waiting for.”_  
+> — **Jamalu – not the author, but the soul behind the effort**  
+> — **Siraat AI Academy**
 
 ---
+
 
 ### 🌐 Connect  
 🔗 Coming soon: [siraatai.com](https://siraatai.com)  
