@@ -156,13 +156,13 @@ Stay curious.
 Stay kind.  
 Stay real.
 
-— **From Jamalu, now walking the Siraat صراط.**
+**✍️ — From Jamalu, who is no longer silent — but now speaks for every quiet heart.**
 
 ---
 
-> *“Quote goes here…”*  
-> — **Jamalu**  
-> *Siraat AI Academy*
+> **"Take a step — that’s how you find the light."**  
+> — Jamalu  
+> Siraat AI Academy
 
 ---
 
