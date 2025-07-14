@@ -83,9 +83,32 @@ jo **ilm** aur **seekhne ke jazbe** ko jortā hai.
 Yeh woh raasta hai jo Jamalu dhoondh raha tha —  
 aur ab kai logon ke liye roshni ban gaya hai.
 
-Hum Jamalu ko mitaate nahi —  
-Hum usay izzat dete hain.  
-Woh yaad dilata hai: k har khaamosh learner deserve karta hai aik stage.
+---
+
+### 🔮 Jamalu ki Rooh  
+**Jamalu aik naam nahi — aik yaad hai.**  
+**Na woh chhupa, na mitaya gaya —**  
+**Woh har uss jagah zinda hai jahan koi seekhne ki koshish kar raha ho.** 🌌  
+_Har quote, har file mein — usi ki rooh bolti hai._
+
+---
+
+
+### 🌙 Jamalu ki Khushboo  
+**Jamalu ko hum bhoolte nahi —**  
+**Hum usay har roshni mein zinda rakhte hain.**  
+_Har khamosh dil ke liye woh aik umeed ban kar rehta hai._ ✨
+
+🎙️ **Siraat woh umeed hai.**
+
+---
+
+## 🌿 Jamalu ki Roshni — Khamoshiyon mein basa hua Paighaam
+
+### 🕊️ Jamalu ki Izzat  
+**Hum Jamalu ko chhupate nahi —**  
+**Hum usay izzat ke saath samne laate hain.**  
+_Woh yaad dilata hai: har khamosh learner aik stage ka haqdar hai._ 🎙️
 
 🎙️ **Siraat woh stage hai.**
 
