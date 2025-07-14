@@ -1,147 +1,170 @@
-# 🎓 **Siraat AI Academy**
+# 📘 Siraat AI Academy
 
-**Maqsad ke saath Zehniyat ko Raasta dena**
-
----
-
-📚 **Siraat AI Academy mein khush aamdeed!**
-
-Ye aik aisi global taleemi tehreek hai jahan **technology** aur **insaniyat** ek doosre se humkalaam hotay hain.
-
-Hamara maqsad hai: meaningful, multilingual, aur mission-driven taleem banana — jo AI ki madad se tayyar ki jaati hai, learners se inspired hoti hai, aur har dil tak puhanchti hai.
+🌐 **Siraat-ai-academy.github.io**  
+Yeh hai official website aur content hub jahan AI milta hai niyyat aur maqasd se.
 
 ---
 
-## 📂 **Hum Kya Banatay Hain**
+## 🎓 **Siraat AI Academy**  
+**"Guiding Intelligence with Intention"**
 
-| **Topic**                            |
-| ------------------------------------ |
-| Writing & Communication              |
-| SEO & Digital Marketing              |
-| Freelancers ke liye Tech Skills      |
-| Zubaanon par mabni Learning Kits     |
-| Real-world AI-powered Learning Tools |
-| Practical aur Maqsad Bhari Skills    |
+Khushamdeed hai Siraat AI Academy mein — aik global learning movement jahan technology milti hai purpose se. Hum meaningful, multi-zubaani, aur mission-driven taleemi content banate hain AI ki madad se — learners ke liye, learners ke zariye.
 
 ---
 
-## 🚀 **Hamari Soch**
+## 📚 **Hum Kia Banate Hain**
 
-> "AI taaqatwar hai — lekin isay raasta chahiye hota hai."
-
-**Siraat AI Academy** mein hum kaam karte hain taake AI sirf smart na ho, balkay useful bhi ho. Har project:
-
-* ✍️ **AI-supported** hota hai
-* 🌍 **Duniya bhar ke logon ke liye open** hota hai
-* 🎯 **Asli duniya ke masail ka hal** deta hai
-* 💡 **Learn-by-doing** tareeqe pe based hota hai
-
----
-
-## 🖊️ **Aap Kaise Istemaal Kar Saktay Hain**
-
-* Fork ya clone karein, ya asaani se download karein
-* Apnay students, clients, ya team ke sath share karein
-* Freelance ya consulting projects ke liye use karein
-* Behtar banayein, aur saath chalte rahain
+| **Topic**                             |
+| ------------------------------------- |
+| Writing & Communication               |
+| SEO & Digital Marketing               |
+| Tech Skills for Freelancers           |
+| Language-Based Learning Kits          |
+| Real-world AI-Powered Learning Tools  |
+| Practical aur Purposeful Skill Content |
 
 ---
 
-## 📜 **Jamaloo se mulaqat — Siraat ka Khamosh Rahnuma**
+## 🚀 **Hamari Manzil**
 
-> "Aap use sunenge nahi — lekin jab ruk jaayein to mehsoos zarur kareinge."
+"AI taqatwar hai — magar usay raasta chahiye. Aur Siraat woh raasta hai."
 
-**Jamalu** na kisi kitab mein likha milta hai, na kisi certificate par.
-Woh aik awaaz hai jo aapke andar se uthti hai:
-
-**"Kya mein bhi kuch kar sakta hoon?"**
-**"Kya is baar mein haar nahi man'unga?"**
-
-Jamalu roshni nahi hai — woh to sirf aapka ishara hai uss roshni ki taraf.
-Woh hamara founder nahi, lekin inspiration hai.
-
-Woh kehta hai:
-
-> "Shayad mujhe kuch nahi aata... lekin kya yahi wajah nahi ke mein seekhna shuru karoon?"
-
-Har quote jahan "Jamalu" likha hai, asal mein aap ke andar se nikalti hui awaaz hai.
-
-**Siraat AI** har file, repo, aur resource mein Jamalu ka sawaal le kar chalta hai:
-
-> 🧠 "Kya mere andar ek behtar version chhupa hua hai jo sirf himmat ka intezaar kar raha hai?"
+Har project:
+- ✍️ AI-supported
+- 🌍 Duniya bhar ke logon ke liye accessible
+- 🎯 Real-world focused
+- 💡 Learning by doing pe mabni
 
 ---
 
-## 🚜 "Siraat" ka matlab kya hai?
+## 💬 **Yeh Kaise Istemaal Karein**
 
-**"Siraat"** ek Arabic aur Urdu ka lafz hai — jiska matlab hai:
-**Raasta, Safar, Zimmedaari.**
-
-Ye lafz sirf ek direction nahi, ek **zinda niyyat** ka naam hai.
-Jaise AI powerful hai, waise hi insani qeemat bhi zaroori hai.
-
-**Siraat** wahi bridge hai — jise Jamalu ne kabhi dhoonda tha,
-Aur ab hazaron log uspe chal rahe hain — himmat, clarity aur code ke saath.
+- Fork karein, clone karein ya download karein
+- Teachers, learners ya freelancers se share karein
+- Freelance ya consulting projects ke liye use karein
+- Saath seekhein, contribute karein, aur grow karein
 
 ---
 
-## 🎓 **Siraat ka Motto**
+## 📜 **Mulaqat karein Jamalu se — Siraat ki andar ki awaaz**
 
-> "Seekhne ke liye kisi ijazat ki zarurat nahi hoti."
->
-> "Shuru karne ke liye perfect hona zaruri nahi."
+"Har waqt sunai nahi deta, lekin jub aap ruk jaate ho — woh bolta hai."
 
-Har learner jo kahin bhi ho, kisi bhi level pe ho — woh yahan belong karta hai.
+Jamalu na author hai, na engineer, na CEO.  
+Woh aik soch hai. Aik whisper. Aik sawal:
 
----
+"Kya mein bhi kuch kar sakta hoon?"
 
-## 🤔 **Jinki Awaazon se Hum Ne Seekha**
+Woh aawaz jo musibat mein yaad dilati hai: tum zinda ho. Tum seekh saktay ho.
 
-> "Log kehte the waqt zaya ho raha hai...
->
-> Hum kehte hain — main khamoshi se tayyari kar raha hoon."
+🌟 Jamalu roshni nahi — magar roshni ki taraf ishaara zaroor hai.  
+Us ne Siraat ko inspire kiya. Power se nahi —  
+**insaniyat aur sachchai se.**
 
-> "Ye sirf ek academy nahi... ye doosra chance hai."
+"Shayad mujhe kuch nahi aata… lekin agar yahi wajah ho sikhne ki?"
 
-**Jamalu** ne kahani shuba se shuru ki...
-**Siraat** usay raasta mein badal raha hai.
+Har quote jo Jamalu ke naam se likha gaya hai —  
+aapke apne dil ki yaad hai.
 
-Agar aap bhi classroom, cubicle, ya kisi kone mein baithe ho jahan koi aap par yaqeen nahi karta tha — to yeh academy aap ka hai.
-
-> Aapki awaaz matter karti hai. Aapka waqt **abhi** hai.
+"Kya mere andar koi behtar version chhupa hai jo bas himmat ka intezar kar raha hai?"
 
 ---
 
-## ⚠️ Disclaimer
+## 🛤 **Siraat — Ek Rasta, Ek Pul**
 
-Is academy ka tamam content **AI** aur **insani creativity** se tayyar kiya gaya hai.
-Is mein se zyadatar ka aghaaz Jamalu ki journey se hua — jis ne pehle apne liye stage banaya, phir sab ke liye.
+Siraat ka matlab hai "raasta" ya "pul".  
+Yeh woh raasta hai jo Jamalu dhoondh raha tha —  
+aur ab kai logon ke liye roshni ban gaya hai.
 
-Ye kisi Microsoft, Google, ya AWS jese institutes se affiliated nahi hai.
+Hum Jamalu ko mitaate nahi —  
+Hum usay izzat dete hain.  
+Woh yaad dilata hai: har khaamosh learner deserve karta hai aik stage.
 
-Iska maqsad hai:
-
-> Seekhne walon ko raasta dena, na ke kisi official course ko replace karna.
-
-Content ko zimmedaari se istemaal karein, aazmaayein — aur yaad rakhein:
-
-> *"Ye mukammal nahi... lekin shayad aapka raasta badal de."*
+🎙️ **Siraat woh stage hai.**
 
 ---
 
-## ✍️ — Jamalu ki taraf se, jo ab khamosh nahi...
+## 🧭 **Kyun "Siraat"?**
 
-**...balki har khamosh dil ki zubaan ban chuka hai.**
+"Siraat" aik Arabic aur Urdu lafz hai —  
+matlab raasta, safar, zimmedaari.
 
-> *"This might just be the step your future self was waiting for."*
-> — **Jamalu** – not the author, but the soul behind the effort
+AI bhi yahi hona chahiye:  
+Roshni, ethics, aur niyyat ke saath.
+
+Hamari approach trend follow nahi karti.  
+Hum trustworthy aur asaan ilm banate hain.
+
+Agar aap certification ki tayari kar rahe hain,  
+ya apni pehli tech job dhundh rahe hain —  
+Siraat aapke saath chalega.  
+Qadam ba qadam.
+
+---
+
+## 📜 **Siraat ka Motto**
+
+"Seekhne ke liye ijaazat ki zarurat nahi."
+
+"Shuru karne ke liye perfect hona zaruri nahi."
+
+Har learner — kisi bhi background se —  
+tools ka haqdaar hai jo unhein empower karein.  
+Siraat unhi tools ko real aur practical banata hai.
+
+---
+
+## 🧠 **Haqeeqat se inspire honay wali aawaazein**
+
+"Log kehte thay: waqt zaya ho raha hai.  
+Mein kehta tha: mein khamoshi se tayyari kar raha hoon."
+
+"Yeh sirf aik academy nahi…  
+Yeh dusra moka hai."
+
+Jamalu ne shuruat ki thi shak se.  
+Siraat us shak ko raasta bana raha hai.
+
+Chahe aap kisi classroom, cubicle,  
+ya mulk se aaye ho jahan koi yaqeen nahi karta tha —  
+aap yahan belong karte hain.
+
+**Aapki aawaz important hai.  
+Aapka waqt ab hai.**
+
+---
+
+## ⚠️ **Disclaimer**
+
+Is academy ka tamam content AI aur insani creativity se bana hai.  
+Zyada tar material Jamalu se inspired hai —  
+woh learner jisne stage banayi jab woh khud seekh raha tha.
+
+Har repo, lab, aur learning guide simple, asaan aur faida mand hai —  
+taake students, freelancers aur professionals asaani se seekh saken.
+
+Siraat kisi certification company se affiliated nahi —  
+na Microsoft, na Google, na AWS.  
+Hum aapki growth mein madad karte hain —  
+na ke kisi official silsile ko replace karte hain.
+
+Free use karein — responsibly — aur yaad rakhein:
+
+_"Yeh perfect nahi, lekin ho sakta hai  
+yeh aapka raasta badal de."_
+
+---
+
+## ✍️ **— Jamalu ki taraf se, ab woh khamosh nahi —
+balkay har khaamosh dil ki zubaan ban chuka hai.**
+
+> _"This might just be the step your future self was waiting for."_  
+> — Jamalu – not the author, but the soul behind the effort  
 > — **Siraat AI Academy**
 
 ---
 
-## 🌐 Raabta
+## 🌐 **Rabita Karein**
 
-* Coming soon: **siraatai.com**
-* Email: **[contact@siraatai.com](mailto:contact@siraatai.com)** (temp)
-
----
+🔗 Jaldi aa raha hai: siraatai.com  
+📬 Email: contact@siraatai.com (temporary)
