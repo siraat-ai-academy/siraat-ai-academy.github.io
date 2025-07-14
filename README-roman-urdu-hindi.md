@@ -82,7 +82,7 @@ aur ab kai logon ke liye roshni ban gaya hai.
 
 Hum Jamalu ko mitaate nahi —  
 Hum usay izzat dete hain.  
-Woh yaad dilata hai: har khaamosh learner deserve karta hai aik stage.
+Woh yaad dilata hai: k har khaamosh learner deserve karta hai aik stage.
 
 🎙️ **Siraat woh stage hai.**
 
