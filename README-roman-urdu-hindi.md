@@ -48,7 +48,11 @@ Har project:
 
 ## 📜 **Mulaqat karein Jamalu se — Siraat ki andar ki awaaz**
 
-"Aap ki wo awaz — Jo har waqt sunai nahi deti, lekin jub aap kahin stuck ho jaate ho — tou phir woh bolta hai."
+> **"Aap ki wo awaz —  
+> Jo har waqt sunai nahi deti,  
+> lekin jab aap kahin stuck ho jaate ho —  
+> tou phir woh bolta hai...  
+> aur sirf aap se baat karta hai."**
 
 Jamalu na author hai, na engineer, na CEO.  
 Woh aik soch hai. Aik whisper. Aik sawal:
