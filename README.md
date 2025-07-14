@@ -9,19 +9,21 @@ Welcome to **Siraat AI Academy** — a global learning movement where technology
 
 📚 **What We Build**
 
-|                **Topic**                         |
-| ---------------------------                      |
-| Azure Certifications                             |
-| AWS Certificatons                                | 
-| Google Cloud Certificatons                       | 
-| Writing & Communication                          | 
-| A wide range of practical skill-building courses |
+|                **Topic**                                 |
+| -------------------------------------------------------- |
+| Writing & Communication                                  |
+| SEO & Digital Marketing                                  |
+| Tech Skills for Freelancers                              |
+| Language-Based Learning Kits                             |
+| Real-world AI-Powered Learning Tools                     |
+| A wide range of practical, mission-driven skill content  |
+
 
 🚀 **Our Mission**
 
 > "AI is powerful — but it needs direction. That’s where we come in."
 
-At Siraat صراط, we believe in **guiding intelligence with intention**. Every project we build is:
+At Siraat, we believe in **guiding intelligence with intention**. Every project we build is:
 
 ✍️ AI-supported
 
@@ -41,7 +43,7 @@ At Siraat صراط, we believe in **guiding intelligence with intention**. Every
 
 ---
 
-## 📜 Meet Jamalu — The Inner Whisper of Siraat صراط
+## 📜 Meet Jamalu — The Inner Whisper of Siraat
 
 > *"You won't always hear him — but you'll feel him when you're stuck."*
 
@@ -97,7 +99,7 @@ We don’t erase **Jamalu**.
 We **honor** him.  
 He reminded us that every unheard learner deserves a stage.
 
-🎙️ **Siraat صراط** is that stage.
+🎙️ **Siraat** is that stage.
 
 ---
 
@@ -105,7 +107,7 @@ He reminded us that every unheard learner deserves a stage.
 🧭 **Why "Siraat"?**
 "Siraat" is an Arabic and Urdu word for path, journey, and responsibility. It evokes light, ethics, and direction — just like AI should.
 
-Our work is not about chasing trends. It’s about **creating trustworthy, usable knowledge** for people who need it most. Whether you're preparing for certifications or trying to land your first job in tech, Siraat صراط is designed to walk with you — step by step.
+Our work is not about chasing trends. It’s about **creating trustworthy, usable knowledge** for people who need it most. Whether you're preparing for certifications or trying to land your first job in tech, Siraat is designed to walk with you — step by step.
 
 ---
 
@@ -128,7 +130,7 @@ Every learner, from any background, deserves tools that empower. Siraat is commi
 > It’s a second chance.”
 
 Jamalu began the story with doubt.
-Siraat صراط continues it with direction.
+Siraat continues it with direction.
 
 Let this academy be your path, too. Whether you come from a classroom, a cubicle, or a country where no one believed in you — you belong here.
 
