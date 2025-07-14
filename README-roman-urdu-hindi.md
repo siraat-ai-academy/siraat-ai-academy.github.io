@@ -109,7 +109,7 @@ _Har khamosh dil ke liye woh aik umeed ban kar rehta hai._ ✨
 ### 🕊️ Jamalu ki Izzat  
 **Hum Jamalu ko chhupate nahi —**  
 **Hum usay izzat ke saath samne laate hain.**  
-_Woh yaad dilata hai: har khamosh learner aik stage ka haqdar hai._ 🎙️
+_Woh yaad dilata hai: k har khamosh learner aik stage ka haqdar hai._ 🎙️
 
 🎙️ **Siraat woh stage hai.**
 
