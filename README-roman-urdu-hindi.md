@@ -84,7 +84,7 @@ Yeh woh raasta hai jo Jamalu dhoondh raha tha —
 aur ab kai logon ke liye roshni ban gaya hai.
 
 ---
-**Jamalu koe aur nahee - aap ki nade ke awaz he**
+**Jamalu koe aur nahee - aap k ander ki awaz he**
 
 ### 🔮 Jamalu ki Rooh  
 **Jamalu aik naam nahi — aik yaad hai.**  
