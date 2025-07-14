@@ -68,7 +68,7 @@ Us ne Siraat ko inspire kiya. Power se nahi —
 "Shayad mujhe kuch nahi aata… lekin agar yahi wajah ho sikhne ki?"
 
 Har quote jo Jamalu ke naam se likha gaya hai —  
-aapke apne dil ki yaad hai.
+aapke apne dil ki awaz hai.
 
 "Kya mere andar koi behtar version chhupa hai jo bas himmat ka intezar kar raha hai?"
 
