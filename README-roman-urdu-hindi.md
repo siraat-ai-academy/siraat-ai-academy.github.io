@@ -5,6 +5,7 @@
 ---
 
 📚 **Siraat AI Academy mein khush aamdeed!**
+
 Ye aik aisi global taleemi tehreek hai jahan **technology** aur **insaniyat** ek doosre se humkalaam hotay hain.
 
 Hamara maqsad hai: meaningful, multilingual, aur mission-driven taleem banana — jo AI ki madad se tayyar ki jaati hai, learners se inspired hoti hai, aur har dil tak puhanchti hai.
